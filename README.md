@@ -11,4 +11,4 @@ Implemented the old school VCD bounce screen in C using Raylib
 * Run the program using `make run`
 
 ## Demo
-[Demo](./assets/bounce.mov)
+[Demo](./assets/assets_bounce.gif)
